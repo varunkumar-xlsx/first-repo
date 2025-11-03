@@ -4,7 +4,7 @@
 
 #  ✨ Key Features & Insights
 
-#This dashboard transforms raw EV data into actionable insights, enabling the analysis of the following key areas:
+This dashboard transforms raw EV data into actionable insights, enabling the analysis of the following key areas:
 
 Geographic Adoption: Visualize the distribution and concentration of EVs (BEV/PHEV) across regions, states, or counties to identify adoption hotspots.
 
