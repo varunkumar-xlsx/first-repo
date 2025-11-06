@@ -1,6 +1,6 @@
 # ⚡️Electric Vehicle Analysis: Power BI Dashboard
 
-#Interactive Power BI dashboard analyzing Electric Vehicle (EV) adoption, market trends, and performance metrics (like range and make/model popularity). Provides key insights for strategic planning in the e-mobility sector.
+Interactive Power BI dashboard analyzing Electric Vehicle (EV) adoption, market trends, and performance metrics (like range and make/model popularity). Provides key insights for strategic planning in the e-mobility sector.
 
 #  ✨ Key Features & Insights
 
