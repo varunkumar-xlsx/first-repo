@@ -27,7 +27,7 @@ This project was built using best practices in data modeling and business intell
 - **Transformation (M-Query)**: M-Query (Power Query) was utilized for all data cleaning, merging for optimal performance.
 
 # 🔎How to View and Interact
-- **View Online**: Experience the **Electric Vehicle Dashboard** on the Power BI Service here: [https://app.powerbi.com/view?r=eyJrIjoiN2YzYmNmMzQtNWFlYy00ZDYzLThmNzEtNTA4ZjdhYWIwMDg0IiwidCI6ImZiMDVmNjc2LWQyN2UtNGIwMS1hNWJiLWY4MDU4YjFiNGY5ZiJ9]
+- **View Online** Experience the **Electric Vehicle Dashboard** on the Power BI Service here: [https://app.powerbi.com/view?r=eyJrIjoiN2YzYmNmMzQtNWFlYy00ZDYzLThmNzEtNTA4ZjdhYWIwMDg0IiwidCI6ImZiMDVmNjc2LWQyN2UtNGIwMS1hNWJiLWY4MDU4YjFiNGY5ZiJ9]
 
 # 🙋‍♂️Contact & Collaboration
 
