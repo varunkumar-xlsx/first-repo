@@ -35,5 +35,5 @@ Created by VarunKumar.
 
 I welcome feedback, suggestions, and collaborative ideas for expanding this analysis! Feel free to connect:
 
-LinkedIn:www.linkedin.com/varunkumarvakamullu
+LinkedIn:[www.linkedin.com/varunkumarvakamullu](https://www.linkedin.com/in/varun-kumar-vakamullu-b07571316/)
 
